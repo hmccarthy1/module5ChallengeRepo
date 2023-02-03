@@ -13,3 +13,8 @@ The project goals:
 
 
 ### Screenshot for deployed application
+![deployed app](./Assets/Web%20capture_2-2-2023_213844_.jpeg)
+
+### Link to github repo
+
+[link to repo](https://hmccarthy1.github.io/module5ChallengeRepo/)
